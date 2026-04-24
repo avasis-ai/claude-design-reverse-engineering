@@ -2,7 +2,18 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-`claude-design-reverse-engineering` is an **unofficial, community-driven** project. It documents **observable patterns** in long-form “assistant-style” answers and the **information architecture** that makes them easy to scan: hierarchy, chunking, progressive disclosure, tables, and signposting.
+```
+  ___ _      _  _   _ ___  ___   ___  ___ ___ ___ ___ _  _
+ / __| |    /_\| | | |   \| __| |   \| __/ __|_ _/ __| \| |
+| (__| |__ / _ \ |_| | |) | _|  | |) | _|\__ \| | (_ | .` |
+ \___|____/_/ \_\___/|___/|___| |___/|___|___/___\___|_|\_|
+```
+
+### Reverse engineered
+
+This repo is an **unofficial, community-driven** project. It documents **observable patterns** in long-form assistant-style answers and the **information architecture** that makes them easy to scan: hierarchy, chunking, progressive disclosure, tables, and signposting — **not** proprietary model source. Explainer motion (960×540, Pillow + **ffmpeg**):
+
+![Framework explainer animation](docs/media/framework-promo.gif)
 
 **What this is not**
 
@@ -48,7 +59,7 @@ Use the checklist in `docs/output-design-framework.md` when authoring long pages
 - **License:** MIT (`LICENSE`).
 - **Changelog:** [`CHANGELOG.md`](CHANGELOG.md).
 - **Security:** [`SECURITY.md`](SECURITY.md) (docs-only repo).
-- **Explainer animation:** `docs/media/framework-promo.{mp4,gif,png}` — regenerate with `scripts/render-framework-promo.py` (Pillow + ffmpeg).
+- **Explainer animation:** `docs/media/framework-promo.{mp4,gif,png}` — regenerate with `scripts/render-framework-promo.py` (Pillow + ffmpeg; ASCII intro → subtitle → diagram; 256-color GIF + CRF 18 MP4).
 
 ## Deploy this site (GitHub Pages)
 
