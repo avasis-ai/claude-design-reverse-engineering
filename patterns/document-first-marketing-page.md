@@ -16,4 +16,4 @@ High-signal product pages often open with a **two-sentence hook**, followed by *
 
 ## Example mapping
 
-See the Laksh marketing page (`laksh/website/index.html`) for a concrete layout that vendors `packages/tokens/tokens.css` as `cd-tokens.css`.
+See `docs/index.html` in this repository for a minimal public page that uses the tokens and motion explainer in `docs/media/`.

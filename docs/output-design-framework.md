@@ -51,4 +51,4 @@ Use transitions and section titles as **handles**: “First”, “Next”, “T
 
 ## 8. Mapping to UI tokens
 
-When a product team (for example **Laksh**) adopts this framework for web properties, align spacing and type ramps to shared tokens in `packages/tokens/tokens.css`. Tokens are **brand-level** choices; this framework addresses **information architecture** first.
+When your team adopts this framework for web properties, align spacing and type ramps to shared tokens in `packages/tokens/tokens.css`. Tokens are **brand-level** choices; this framework addresses **information architecture** first.

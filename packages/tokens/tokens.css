@@ -1,6 +1,6 @@
 /**
  * Claude-design reverse-engineering — document UI tokens (community).
- * Compatible with Laksh marketing surfaces; safe to duplicate into other repos.
+ * Public “document UI” palette; safe to duplicate into any static site or app shell.
  */
 :root {
   --cd-bg: #080808;
